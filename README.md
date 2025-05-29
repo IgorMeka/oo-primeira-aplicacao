@@ -92,12 +92,5 @@ Para utilizar o sistema, siga os passos abaixo:
    restaurante1.alternar_estado()
    ```
 
-## **Requisitos**
-- Python 3.x
-- Nenhuma biblioteca externa é necessária.
-
 ## **Contribuição**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
-
-## **Licença**
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
